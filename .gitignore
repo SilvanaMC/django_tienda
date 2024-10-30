@@ -1,0 +1,15 @@
+# Ignorar el entorno virtual
+
+entorno/
+
+ 
+# Archivos de base de datos
+
+*.sqlite3
+
+*.db
+ 
+# Configuración sensible
+
+.env
+ 
