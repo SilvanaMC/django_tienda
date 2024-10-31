@@ -9,4 +9,12 @@ navlink.forEach(function(link){
         link.style.backgroundColor = "";
     });
 });
+
+const showAlertButton = document.getElementById('show-alert');
+if (showAlertButton){
+    showAlertButton.addEventListener("click", function(){
+        alert('Desbloqueaste un cupon');
+    });
+}
 });
+

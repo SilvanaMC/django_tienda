@@ -22,7 +22,11 @@ h1 {
 nav {
     margin: 20px 0;
     text-align: center;
-    
+    background-color: lightblue;
+}
+
+.navegacion {
+    background-color: lightpink;
 }
 
 nav a {
